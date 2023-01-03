@@ -13,6 +13,7 @@
 
 .heart {
    position: absolute;
+   max-width: 180px;
    bottom: 10%;
    right: 10%;
 
