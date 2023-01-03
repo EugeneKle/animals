@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <button onClick={handleClick}>Add Animal</button>
-      <div>{renderedAnimals}</div>
+      <div style={{ display: "flex" }}>{renderedAnimals}</div>
     </div>
   );
 }
