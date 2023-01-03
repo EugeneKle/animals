@@ -22,7 +22,7 @@ function AnimalShow({ type }) {
         src={heart}
         alt="heart"
         style={{
-          width: 10 + 10 * clicks + "px",
+          width: 10 + 10 * clicks,
         }}
       />
     </div>
